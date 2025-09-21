@@ -1,0 +1,12 @@
+certifi==2025.1.31
+charset-normalizer==3.4.1
+colorama==0.4.6
+distlib==0.3.9
+filelock==3.17.0
+gpt4all==2.8.2
+idna==3.10
+platformdirs==4.3.6
+requests==2.32.3
+tqdm==4.67.1
+urllib3==2.3.0
+virtualenv==20.29.2
